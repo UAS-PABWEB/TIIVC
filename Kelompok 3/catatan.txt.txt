@@ -1,0 +1,8 @@
+Kelompok 2:
+- Agung Sopian		A2.1800008
+- Nida Nur Aini		A2.1800098
+- Rizki Abdul Hamid	A2.1800117
+- Tiara Taufik		A2.1800133
+
+username admin	: admin
+password	: admin
