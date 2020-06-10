@@ -1,0 +1,9 @@
+<table>
+    <tr>
+        <td align="center"><a href="#"><img src="" width="100px;" alt=""/><br /><sub><b>Azmi Fauzan</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+        <td align="center"><a href="#"><img src="https://avatars2.githubusercontent.com/u/61767677?s=460&u=319b7c5d04818291d3d8a1995052f0952f145885&v=4" width="100px;" alt=""/><br /><sub><b>Davo Algiyana Janiar</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+        <td align="center"><a href="#"><img src="" width="100px;" alt=""/><br /><sub><b>Luthfi Izzuddin</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+        <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/61607389?s=460&u=15309d98072f24dafebf50f3e46b87e8ccbde20c&v=4" width="100px;" alt=""/><br /><sub><b>Riza Suparman</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+        <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61768901?s=460&u=1fa96fa6a526406e9d28163403074f9dbca0ca86&v=4" width="100px;" alt=""/><br /><sub><b>Yogi Apriliyanto Mahendra</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    </tr>
+</table>
