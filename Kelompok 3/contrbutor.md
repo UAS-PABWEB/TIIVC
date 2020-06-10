@@ -1,0 +1,8 @@
+<table>
+    <tr>
+        <td align="center"><a href="#"><img src="https://avatars2.githubusercontent.com/u/61607261?s=460&u=a48bf280cd1031126227e545eb0d481f18007597&v=4" width="100px;" alt=""/><br /><sub><b>Agung Sopian</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+        <td align="center"><a href="#"><img src="https://avatars2.githubusercontent.com/u/61768698?s=460&u=607940ceec226c7d3b5aa4385a1298cff3631d81&v=4" width="100px;" alt=""/><br /><sub><b>Nida Nur Aini</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+        <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61607709?s=460&u=7c9849afa259c151e84c394e6cc8c196df56399c&v=4" width="100px;" alt=""/><br /><sub><b>Rizki Abdul Hamid</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+        <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61768437?s=460&u=a478896f2d5c60df1d5d83552dde886b8ff02b83&v=4" width="100px;" alt=""/><br /><sub><b>Tiar Taufik Shobirin</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    </tr>
+</table>
