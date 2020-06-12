@@ -1,0 +1,12 @@
+link :
+http://aplikasipenjualanuaspaweb.000webhostapp.com/
+
+----------
+*user & pass default ADMIN :
+username  :admin
+password  :admin123
+-----------
+*user & pass default KASIR :
+username  :kasir
+password  :kasir123
+----------
