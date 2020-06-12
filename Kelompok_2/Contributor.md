@@ -1,0 +1,8 @@
+<table>
+    <tr>
+        <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/61337964?s=400&u=256c416d14a70ae205f2fb00442d43cbbc0ecdad&v=4" width="100px;" alt=""/><br /><sub><b>Andini Putri Maharani</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+        <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/61338007?s=400&u=69efce7fd5fcc1675976fe114517883c846bbdbc&v=4" width="100px;" alt=""/><br /><sub><b>Puzi Rismala</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+        <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61607825?s=460&u=5298dac3ebae04d0eecc37ba84b8a924acfb1549&v=4" width="100px;" alt=""/><br /><sub><b>Jujun Supendi</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+        <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/61607811?s=400&u=5c2e77d09d6238ed33be0f707cd08faee43abfba&v=4" width="100px;" alt=""/><br /><sub><b>Iqbal Nurhayadin</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    </tr>
+</table>
