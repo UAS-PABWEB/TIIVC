@@ -19,19 +19,15 @@
         Original repository: <a href="https://github.com/ramdani-surya/catut">https://github.com/ramdani-surya/catut</a>
     </li>
     <li>
-        Production link: <a href="http://a2-1800105.myartsonline.com">http://a2-1800105.myartsonline.com</a>
+        Production link: <a href="http://ramdani-surya.web.id">http://ramdani-surya.web.id</a>
     </li>
-    <li>
-        Dikarenakan kendala domain atau alamat web yang kami gunakan tidak menggunakan SSL, maka pada link production di atas akan ditemukan error pada fitur:
+    <li>Bugs/Errors:
         <ul>
-            <li>Lupa password (tidak dapat mengirim email konfirmasi)</li>
-            <li>Login dengan Facebook dan Google</li>
+            <li>Login dengan Facebook tidak bisa digunakan, karena web yang kami gunakan tidak menggunakan SSL (harus https)</li>
+            <li>Tidak tahu kenapa upload foto selalu gagal, padahal di localhost berjalan dengan semestinya</li>
         </ul>
     </li>
-    <li>Error/bug diatas tidak akan terjadi di localhost atau pun website yang menggunakan SSL</li>
-    <li>
-        Jika Anda hendak mengembangkan aplikasi ini, silahkan cek dokumentasi <a href="https://laravel.com/docs/7.x/socialite">Laravel (Socialite)</a> untuk menjalankan fitur login dengan Facebook dan Google
-    </li>
+    <li>Bugs/Errors diatas tidak terjadi di localhost kami</li>
 </ul>
 
 ## Anggota Kelompok ✨
