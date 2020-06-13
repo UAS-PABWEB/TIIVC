@@ -19,7 +19,7 @@
         Original repository: <a href="https://github.com/ramdani-surya/catut">https://github.com/ramdani-surya/catut</a>
     </li>
     <li>
-        Production link: <a href="http://ramdani-surya.web.id">http://ramdani-surya.web.id</a>
+        Production link: <a href="http://ramdani-surya.web.id" target="_blank">http://ramdani-surya.web.id</a>
     </li>
     <li>Bugs/Errors:
         <ul>
