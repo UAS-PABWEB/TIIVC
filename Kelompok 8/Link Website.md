@@ -1,4 +1,4 @@
-Link Demo : oldcaptaincoffee-smd.store
+Link Demo : 
 
 Username : admin
 Password : admin
